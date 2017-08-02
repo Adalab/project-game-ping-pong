@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+
+}
+canvas{
+  border: 2px solid red;
+  margin-top: 200px;
+}
