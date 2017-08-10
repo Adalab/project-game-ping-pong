@@ -9,6 +9,6 @@ body{
 
 }
 canvas{
-  border: 2px solid red;
+  background-color: #43ba43;
   margin-top: 200px;
 }
